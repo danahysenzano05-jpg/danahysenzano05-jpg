@@ -1,16 +1,32 @@
-## Hi there 👋
+<div>
+  <h1>👋 Hi! I am Danahy Senzano</h1>
+  <h3>💻 Systems Engineering Student</h3>
+  <p>
+    📧 <strong>Email:</strong> 
+    <a href="mailto:danahysenzano05@gmail.com">danahysenzano05@gmail.com</a>
+  </p>
+  <p>
+    🎮 <strong>Roblox Profile:</strong> 
+    <a href="https://www.roblox.com/users/TU_ID_DE_USUARIO/profile" target="_blank">
+      My Roblox Profile
+    </a>
+  </p>
+</div>
 
-<!--
-**danahysenzano05-jpg/danahysenzano05-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<div>
+  <h2>👤 About Me</h2>
+  <p>🎂 Tengo 18 años.</p>
+  <p>🎓 Soy estudiante de Ingeniería en Sistemas en la Universidad NUR.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>✨ Lo que me gusta hacer (Mis Intereses)</h3>
+  <ul>
+    <li>📺 Ver Fede Vigevani</li>
+    <li>🍿 Mirar KDramas</li>
+    <li>🎮 Jugar Roblox</li>
+  </ul>
+
+  <h3>🚀 Proyectos Importantes</h3>
+  <p>⏳ <em>¡Muy pronto! Cargando primeros proyectos... 🚧</em></p>
+</div>
